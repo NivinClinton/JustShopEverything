@@ -1,0 +1,7 @@
+.productTop{
+    display: flex;
+    justify-content: space-between;
+}
+.cart1{
+    margin-top: auto;
+}

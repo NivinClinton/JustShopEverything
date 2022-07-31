@@ -1,0 +1,35 @@
+.navbar-brand {
+  font-family: "Roboto", sans-serif;
+}
+.dropdown-menu {
+  border-radius: 20px;
+  width: 20%;
+  margin-right: 50px;
+}
+.FocusDiv {
+  height: 250px !important;
+  margin-bottom: 15px;
+}
+.ContentDiv1 {
+  height: 300px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: white !important;
+}
+.ContentDiv2 {
+  height: 300px;
+  background-color: white;
+  border-radius: 5px;
+}
+.FocusDiv img{
+  height: 250px !important;
+ 
+}
+
+.nav-item a:hover{
+  background-color: white;
+  color: black!important;
+  border-radius: 10px;
+ 
+
+}
